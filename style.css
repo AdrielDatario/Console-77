@@ -1,0 +1,15 @@
+#sort_button{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#sumit_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
